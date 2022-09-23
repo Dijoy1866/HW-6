@@ -1,4 +1,4 @@
-N = int(input("Pleaes input :"))
+N = int(input("Please input number:"))
 
 num_height = 1
 

@@ -1,6 +1,6 @@
 # Вывести треугольник #3 с шириной N с помощью цикла while
 
-N = int(input("Please input :"))
+N = int(input("Please input number :"))
 i = N
 d = '*'
 s = N
