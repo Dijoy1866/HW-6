@@ -1,3 +1,5 @@
+# Вывести треугольник #1 с шириной N с помощью цикла while
+
 N = int(input("Please input number :"))
 
 num_height = 1
