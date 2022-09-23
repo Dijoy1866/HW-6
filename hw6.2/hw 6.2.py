@@ -2,18 +2,14 @@
 
 N = int(input("Please input number :"))
 
-num_height = 1
+h = 1
 
 
-while num_height <= N:
-    num_width = 1
-    while num_width <= num_height:
+while h <= N:
+    w = 1
+    while w <= h:
         print("*", end=" ")
-        num_width += 1
-    num_height += 1
+        w += 1
+        h += 1
     print()
-
-
-
-
 

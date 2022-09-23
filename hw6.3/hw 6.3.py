@@ -12,3 +12,4 @@ while s != 1:
     print(p * (N-i) + (d * i))
 
 
+
