@@ -8,9 +8,9 @@ h = 1
 while h <= N:
     w = 1
     while w <= h:
-        print("*", end=" ")
+        print("*", end="")
         w += 1
-        h += 1
+    h += 1
     print()
 
 
